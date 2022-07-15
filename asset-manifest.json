@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/covit-tracker/static/css/main.d8c65d9b.css",
+    "main.js": "/covit-tracker/static/js/main.77f1f774.js",
+    "static/js/787.3353a8a3.chunk.js": "/covit-tracker/static/js/787.3353a8a3.chunk.js",
+    "index.html": "/covit-tracker/index.html",
+    "main.d8c65d9b.css.map": "/covit-tracker/static/css/main.d8c65d9b.css.map",
+    "main.77f1f774.js.map": "/covit-tracker/static/js/main.77f1f774.js.map",
+    "787.3353a8a3.chunk.js.map": "/covit-tracker/static/js/787.3353a8a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8c65d9b.css",
+    "static/js/main.77f1f774.js"
+  ]
+}
